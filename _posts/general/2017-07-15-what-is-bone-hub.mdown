@@ -1,0 +1,7 @@
+---
+layout: post
+categories: general
+title: What is B.One Hub?
+---
+
+B.One is an Automation and Security Hub that enables you to connect, control and automate your smart devices through an App that can be downloaded on your IOS Tablet and IOS/Android Mobile devices.

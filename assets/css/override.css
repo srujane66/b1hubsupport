@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+}
+
+.article-content {
+  margin-top: 35px;
+}
+
+dd {
+  margin-bottom: 20px;
+}
+
+h1, .h1 {
+  font-size: 3rem;
+}
+
+.jumbotron h1, .jumbotron .h1 {
+  font-size: 5rem;
+}
+
+#results-div {
+  border-bottom: 1px solid #f1f0f0;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+  display: none;
+}
+
+#search-results {
+  margin-top: 35px;
+}
+
+#query-box {
+  xbackground-color: #fff;
+  xborder: 1px solid #ececec;
+  xborder-radius: 5px;
+  xmargin: 20px 0;
+  xpadding: 10px 20px;
+  padding-top: 20px;
+}

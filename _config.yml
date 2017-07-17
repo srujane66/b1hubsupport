@@ -1,0 +1,9 @@
+title: B.One - Frequently Asked Questions & Support
+email: lovelldies@gmail.com
+description: B1Hub Support Pages and Frequently Asked Questions.
+baseurl: "/b1hubsupport"
+twitter_username: lovelldies
+github_username:  lovelldies
+permalink: /:categories/:title/
+url: https://lovelldies.github.io/b1hubsupport
+exclude: ['README.md', 'ignore']
