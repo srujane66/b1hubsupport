@@ -2,12 +2,21 @@ body {
   padding-top: 50px;
 }
 
+.breadcrumb-container {
+  margin-bottom: 50px;
+}
+
 .article-content {
   margin-top: 35px;
 }
 
 dd {
   margin-bottom: 20px;
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  margin-top: 70px;
 }
 
 h1, .h1 {
@@ -19,10 +28,11 @@ h1, .h1 {
 }
 
 #results-div {
-  border-bottom: 1px solid #f1f0f0;
-  margin-bottom: 50px;
-  padding-bottom: 20px;
   display: none;
+}
+
+#search-box {
+  border-bottom: 1px solid #f1f0f0;
 }
 
 #search-results {
@@ -30,10 +40,5 @@ h1, .h1 {
 }
 
 #query-box {
-  xbackground-color: #fff;
-  xborder: 1px solid #ececec;
-  xborder-radius: 5px;
-  xmargin: 20px 0;
-  xpadding: 10px 20px;
   padding-top: 20px;
 }

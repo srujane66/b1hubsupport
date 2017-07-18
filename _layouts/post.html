@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html %}
+{% include search-results.html %}
 
-<div class="container">
-  <article>
-    <h1>{{ page.title | escape }}</h1>
-    <div class="article-content">
-      {{ content }}
-    </div>
-  </article>
-</article>
+<div id="content-container">
+  {% include breadcrumbs.html %}
+  <div class="container">
+    <article>
+      <h1>{{ page.title | escape }}</h1>
+      <div class="article-content">
+        {{ content }}
+      </div>
+    </article>
+  </div>
+</div>

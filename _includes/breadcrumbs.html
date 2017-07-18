@@ -1,9 +1,22 @@
-<ol class="breadcrumb">
-  <li class="breadcrumb-item">
-    <a href="{{ site.baseurl }}/">Home</a>
-  </li>
-  <li class="breadcrumb-item">
-    <a href="{{ site.baseurl }}/{{ page.categories | first }}/">{{ page.categories | first | capitalize }}</a>
-  </li>
-  <li class="breadcrumb-item active">{{ page.title | escape }}</li>
-</ol>
+<div id="breadcrumb-container">
+  <div class="row">
+    <div class="col-md-10">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% if page.categorytitle %}
+          <li class="breadcrumb-item">{{ page.categorytitle | capitalize }}</li>
+        {% else %}
+          <li class="breadcrumb-item">
+            <a href="{{ site.baseurl }}/{{ page.categories | first }}/">{{ page.categories | first | capitalize }}</a>
+          </li>
+          <li class="breadcrumb-item active">{{ page.title | escape }}</li>
+        {% endif %}
+      </ol>
+    </div>
+    <div class="col-md-2">
+    <a href="#" class="btn btn-warning btn-sm pull-right">Contact Us</a>
+    </div>
+  </div>
+</div>

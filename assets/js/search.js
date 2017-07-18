@@ -59,6 +59,7 @@ function initSearch() {
     // Get search results on submission of form
     $(document).on("submit", $searchForm, function(e) {
         $('#results-div').show();
+        $('#content-container').hide();
         e.preventDefault();
         q = $searchInput.val();
         execSearch(q);
