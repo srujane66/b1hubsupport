@@ -7,3 +7,4 @@ github_username:  lovelldies
 permalink: /:categories/:title/
 url: https://lovelldies.github.io/b1hubsupport
 exclude: ['README.md', 'ignore']
+img: '/b1hubsupport/assets/img/support-images/'
