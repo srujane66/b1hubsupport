@@ -16,7 +16,7 @@ For example:
 
 **Setting a static IP in NETGEAR**
 
-1. Launch an Internet browser and type [http://www.routerlogin.net/"](http://www.routerlogin.net) into the address bar.
+1. Launch an Internet browser and type [http://www.routerlogin.net](http://www.routerlogin.net) into the address bar.
 
 2. Enter the router username and password when prompted. The default username is admin. The default password is password.
 
