@@ -4,8 +4,12 @@
     <ul>
     {% assign sorted_cats = site.categories | sort %}
     {% for category in sorted_cats %}
+      {% assign words = category.first | remove: '["' | remove: '"]' | split: '-' %}
+      {% capture catname %}
+        {% for word in words %}{{ word | capitalize }} {% endfor %}
+      {% endcapture %}
       <div class="col-md-6">
-        <li><a href="{{ site.baseurl}}/{{ category[0] }}/">{{ category[0] | capitalize }}</a></li>
+        <li><a href="{{ site.baseurl}}/{{ category[0] }}/">{{ catname | camelcase }}</a></li>
       </div>
     {% endfor %}
     </ul>

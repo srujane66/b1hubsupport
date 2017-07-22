@@ -10,6 +10,10 @@ body {
   margin-top: 35px;
 }
 
+.article-content img {
+  margin-bottom: 50px;
+}
+
 dd {
   margin-bottom: 20px;
 }
