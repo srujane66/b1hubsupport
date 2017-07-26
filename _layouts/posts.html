@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
+{% include search-results.html %}
+
 {% assign cat = page.category %}
+{% assign posts = site.categories[cat] | sort: 'title' %}
 
 <div id="content-container">
   {% include breadcrumbs.html %}
   <h1>{{ page.categorytitle }}</h1>
   <ul>
-  {% for post in site.categories[cat] %}
+  {% for post in posts %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>

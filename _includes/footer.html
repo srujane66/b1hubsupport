@@ -1,18 +1,24 @@
 <footer class="jumbotron">
   <div class="container">
-    <h3>Browse by Topic</h3>
-    <ul>
-    {% assign sorted_cats = site.categories | sort %}
-    {% for category in sorted_cats %}
-      {% assign words = category.first | remove: '["' | remove: '"]' | split: '-' %}
-      {% capture catname %}
-        {% for word in words %}{{ word | capitalize }} {% endfor %}
-      {% endcapture %}
-      <div class="col-md-6">
-        <li><a href="{{ site.baseurl}}/{{ category[0] }}/">{{ catname | camelcase }}</a></li>
-      </div>
-    {% endfor %}
-    </ul>
+    <div class="col-md-9">
+      <h3>Browse by Topic</h3>
+      <ul>
+      {% assign sorted_cats = site.categories | sort %}
+      {% for category in sorted_cats %}
+        {% assign words = category.first | remove: '["' | remove: '"]' | split: '-' %}
+        {% capture catname %}
+          {% for word in words %}{{ word | capitalize }} {% endfor %}
+        {% endcapture %}
+        <div class="col-md-4">
+          <li><a href="{{ site.baseurl}}/{{ category[0] }}/">{{ catname | camelcase }}</a></li>
+        </div>
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="col-md-3">
+      <h3>Still need help?</h3>
+      <a target="_blank" href="http://b1hub.com/contact.html" class="btn btn-warning">Contact Us</a>
+    </div>
   </div>
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

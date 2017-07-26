@@ -7,7 +7,7 @@
     {% unless first %},{% endunless %}{
         "title": {{post.title | jsonify}},
         "link": "{{ site.baseurl }}{{ post.url }}",
-        "excerpt": "{{ post.excerpt | strip_newlines | rstrip | strip_html }}",
+        "excerpt": "{{ post.content | truncatewords: 50 | markdownify | strip_html | strip_newlines | strip | remove: "      " }}",
         "search_omit": "{{ post.search_omit }}"
     }
     {% assign first = false %}

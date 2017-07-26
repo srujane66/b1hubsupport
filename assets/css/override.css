@@ -2,15 +2,15 @@ body {
   padding-top: 50px;
 }
 
-.breadcrumb-container {
-  margin-bottom: 50px;
-}
-
 .article-content {
   margin-top: 35px;
 }
 
 .article-content img {
+  margin-bottom: 50px;
+}
+
+.breadcrumb-container {
   margin-bottom: 50px;
 }
 
@@ -20,15 +20,24 @@ dd {
 
 footer {
   border-top: 1px solid #ccc;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 h1, .h1 {
   font-size: 3rem;
 }
 
+h3 a, h3 a:hover,
+.view-all a, .view-all a:hover {
+  color: #222;
+}
+
 .jumbotron h1, .jumbotron .h1 {
   font-size: 5rem;
+}
+
+.page-title-list li {
+  margin: 4px 0;
 }
 
 #results-div {
@@ -45,4 +54,14 @@ h1, .h1 {
 
 #query-box {
   padding-top: 20px;
+}
+
+.view-all {
+  list-style-type: circle;
+}
+
+@media (min-width: 992px) {
+  #content-container .col-md-6 {
+    min-height: 220px;
+  }
 }
