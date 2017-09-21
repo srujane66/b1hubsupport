@@ -9,6 +9,7 @@ Each category has a dedicated folder. The folders are located in [_posts](https:
    ```
    ---
    layout: posts
+   catid: 5_DIGIT_CATEGORY_ID
    category: categoryname
    permalink: /categoryname/
    categorytitle: Category Name
@@ -29,6 +30,7 @@ For example: `2017-07-20-does-bone-use-a-cloud.md`. The date should be the date 
 ```
 ---
 layout: post
+postid: 5_DIGIT_POST_ID
 categories: CATEGORY_NAME
 title: TITLE_OF_THE_POST
 ---
@@ -36,6 +38,8 @@ title: TITLE_OF_THE_POST
 PAGE_TEXT_GOES_HERE
 ```
 Make sure to replace the `CATEGORY_NAME` and `TITLE_OF_THE_POST` with the relevant information. Also make sure to include both the `---` lines.
+
+The `5_DIGIT_POST_ID`, is a 5 digit integer manually chosen so that you can control the order of the posts/FAQs on their respective category pages.
 
 4. `PAGE_TEXT_GOES_HERE` is where the FAQ/Support content will appear. We shall get to that in the next section. To better understand what we just did, have a look at this very simple example:
   - [Source File](https://raw.githubusercontent.com/lovelldies/b1hubsupport/master/_posts/general/2017-07-20-does-bone-use-a-cloud.md)
