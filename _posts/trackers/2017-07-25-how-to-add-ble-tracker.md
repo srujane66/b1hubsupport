@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '02600'
 categories: trackers
 title: How to add BLE Tracker?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '02300'
 categories: thermostats
 title: How to delete Ecobee Thermostat?
 ---

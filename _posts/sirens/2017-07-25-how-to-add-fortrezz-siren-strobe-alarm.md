@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '01900'
 categories: sirens
 title: How to add FortrezZ Siren Strobe Alarm?
 ---

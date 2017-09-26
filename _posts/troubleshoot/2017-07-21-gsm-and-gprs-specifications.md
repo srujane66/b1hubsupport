@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00400'
 categories: troubleshoot
 title: GSM and GPRS specifications
 ---

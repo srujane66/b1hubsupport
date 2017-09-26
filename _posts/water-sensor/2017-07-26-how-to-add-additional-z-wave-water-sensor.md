@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '02200'
 categories: water-sensor
 title: How to add Additional Z-Wave Water Sensor?
 ---

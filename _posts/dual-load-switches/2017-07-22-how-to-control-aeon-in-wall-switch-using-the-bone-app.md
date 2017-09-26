@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00800'
 categories: dual-load-switches
 title: How to control Aeon In-Wall Switch using the B.One App?
 ---

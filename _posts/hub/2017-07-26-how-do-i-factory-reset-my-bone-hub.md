@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '00300'
 categories: hub
 title: How do I factory reset my B.One Hub?
 ---

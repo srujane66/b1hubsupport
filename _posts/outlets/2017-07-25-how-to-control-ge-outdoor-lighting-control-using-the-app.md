@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '01000'
 categories: outlets
 title: How to control GE Outdoor Lighting Control using the app?
 ---

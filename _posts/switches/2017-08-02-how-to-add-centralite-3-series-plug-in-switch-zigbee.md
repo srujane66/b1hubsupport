@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '01100'
 categories: switches
 title: How to add Centralite 3-Series Plug-in Switch (ZIGBEE)?
 ---

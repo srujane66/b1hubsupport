@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '01000'
 categories: outlets
 title: How to add Additional Z-Wave Outlets?
 ---

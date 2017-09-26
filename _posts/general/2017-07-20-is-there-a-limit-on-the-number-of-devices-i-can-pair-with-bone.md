@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00100'
 categories: general
 title: Is there a limit on the number of devices I can pair with B.One?
 ---

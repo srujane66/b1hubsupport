@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01200'
+catid: '01100'
 categories: switches
 title: How to add Smartenit Ha Metering Single Load?
 ---

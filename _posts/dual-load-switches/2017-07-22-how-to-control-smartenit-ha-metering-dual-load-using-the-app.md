@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '00800'
 categories: dual-load-switches
 title: How to control Smartenit HA Metering Dual Load using the App?
 ---

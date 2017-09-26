@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01100'
 categories: switches
 title: How to access Switches?
 ---

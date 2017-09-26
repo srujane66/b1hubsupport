@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01800'
+catid: '00100'
 categories: general
 title: Can my European Z-Wave devices work with B.One hub ?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00600'
 categories: audio
 title: How to delete a Sonos device
 ---

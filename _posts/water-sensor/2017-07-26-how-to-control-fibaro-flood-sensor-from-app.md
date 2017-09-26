@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '02200'
 categories: water-sensor
 title: How to control Fibaro Flood Sensor from App?
 ---

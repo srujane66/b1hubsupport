@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01400'
+catid: '01100'
 categories: switches
 title: How to add Ge In-Wall Toggle On/Off Switch?
 ---

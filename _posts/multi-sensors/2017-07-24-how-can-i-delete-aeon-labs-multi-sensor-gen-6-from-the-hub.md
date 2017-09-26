@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '01500'
 categories: multi-sensors
 title: How can I delete Aeon Labs Multi Sensor Gen 6 from the Hub?
 ---

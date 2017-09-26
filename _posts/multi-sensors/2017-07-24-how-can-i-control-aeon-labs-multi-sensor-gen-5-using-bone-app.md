@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01500'
 categories: multi-sensors
 title: How can I control Aeon Labs Multi Sensor Gen 5 using B.One App?
 ---

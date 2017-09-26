@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01800'
+catid: '01600'
 categories: open-close-sensors
 title: How can I control Everspring Door/Window Sensor using B.One App?
 ---

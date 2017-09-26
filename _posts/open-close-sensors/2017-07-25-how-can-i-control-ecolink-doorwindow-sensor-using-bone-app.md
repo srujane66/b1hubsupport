@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01200'
+catid: '01600'
 categories: open-close-sensors
 title: How can I control Ecolink Door/Window Sensor using B.One App?
 ---

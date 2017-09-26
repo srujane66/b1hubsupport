@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to control Evolve LRM As Wall Mount Dimmer using B.One App?
 ---

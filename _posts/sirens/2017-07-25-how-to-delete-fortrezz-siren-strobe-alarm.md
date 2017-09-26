@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '01900'
 categories: sirens
 title: How to delete Fortrezz Siren Strobe Alarm?
 ---

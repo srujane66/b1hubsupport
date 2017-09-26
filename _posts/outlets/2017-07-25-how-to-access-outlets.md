@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01000'
 categories: outlets
 title: How to access Outlets?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '00100'
 categories: general
 title: Can I replace batteries in B.One Sensors?
 ---

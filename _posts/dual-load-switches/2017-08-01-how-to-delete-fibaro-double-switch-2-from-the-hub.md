@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00800'
 categories: dual-load-switches
 title: How to delete Fibaro Double Switch 2 from the Hub?
 ---

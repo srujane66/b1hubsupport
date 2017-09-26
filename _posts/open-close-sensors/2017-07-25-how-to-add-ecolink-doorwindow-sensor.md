@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '01600'
 categories: open-close-sensors
 title: How to add Ecolink Door/Window Sensor?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00200'
 categories: application
 title: Can I have multiple users on my B.One account?
 ---

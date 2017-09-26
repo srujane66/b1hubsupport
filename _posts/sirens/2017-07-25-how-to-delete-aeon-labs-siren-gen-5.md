@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '01900'
 categories: sirens
 title: How to delete Aeon Labs Siren Gen (5)?
 ---

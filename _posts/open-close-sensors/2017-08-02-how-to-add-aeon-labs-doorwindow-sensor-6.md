@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: switches
+postid: '00500'
+catid: '01600'
+categories: open-close-sensors
 title: How to add Aeon Labs Door/Window Sensor 6?
 ---
 

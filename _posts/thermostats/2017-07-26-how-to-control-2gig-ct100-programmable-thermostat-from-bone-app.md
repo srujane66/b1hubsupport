@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '02300'
 categories: thermostats
 title: How to control 2Gig CT100 Programmable Thermostat from B.One App?
 ---

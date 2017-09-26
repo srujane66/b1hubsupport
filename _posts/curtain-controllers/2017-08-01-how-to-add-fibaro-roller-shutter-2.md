@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '00700'
 categories: curtain-controllers
 title: How to add Fibaro Roller Shutter 2?
 ---

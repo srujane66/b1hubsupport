@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00100'
 categories: general
 title: What is the benefit of inserting a 2G/3G SIM card in my B.One Hub?
 ---

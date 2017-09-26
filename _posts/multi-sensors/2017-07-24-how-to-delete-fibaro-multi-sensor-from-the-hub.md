@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '01500'
 categories: multi-sensors
 title: How to delete Fibaro Multi Sensor from the Hub?
 ---

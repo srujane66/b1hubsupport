@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00800'
 categories: dual-load-switches
 title: How to delete Aeon In-Wall Switch from the Hub?
 ---

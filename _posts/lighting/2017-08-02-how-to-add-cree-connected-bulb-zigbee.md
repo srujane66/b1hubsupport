@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00500'
 categories: lighting
 title: How to add Cree Connected Bulb (ZIGBEE)?
 ---

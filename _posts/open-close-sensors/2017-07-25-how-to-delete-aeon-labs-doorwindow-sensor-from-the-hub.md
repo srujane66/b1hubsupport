@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '01600'
 categories: open-close-sensors
 title: How to delete Aeon Labs Door/Window sensor from the Hub?
 ---

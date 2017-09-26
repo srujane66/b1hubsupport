@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '02900'
 categories: remotes
 title: How do I use the “learn and repeat” function of the custom IR remote?
 ---

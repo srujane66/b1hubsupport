@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: switches
+postid: '00700'
+catid: '01600'
+categories: open-close-sensors
 title: How to delete Aeon Labs Door/Window Sensor 6 from the Hub?
 ---
 

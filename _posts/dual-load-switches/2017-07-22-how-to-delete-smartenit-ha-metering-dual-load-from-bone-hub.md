@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '00800'
 categories: dual-load-switches
 title: How to delete Smartenit HA Metering Dual Load from B.One Hub?
 ---

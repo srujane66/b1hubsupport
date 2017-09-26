@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00200'
 categories: application
 title: What mobile platform does B.One support?
 ---

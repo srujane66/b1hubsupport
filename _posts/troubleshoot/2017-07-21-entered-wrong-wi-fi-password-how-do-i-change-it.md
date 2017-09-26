@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00400'
 categories: troubleshoot
 title: Entered wrong Wi-Fi password, how do I change it?
 ---

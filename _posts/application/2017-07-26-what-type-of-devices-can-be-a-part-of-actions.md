@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01700'
+catid: '00200'
 categories: application
 title: What type of devices can be a part of Actions?
 ---

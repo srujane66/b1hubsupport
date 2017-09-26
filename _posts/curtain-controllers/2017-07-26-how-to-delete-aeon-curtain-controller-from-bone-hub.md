@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00700'
 categories: curtain-controllers
 title: How to delete Aeon Curtain Controller from B.One Hub?
 ---

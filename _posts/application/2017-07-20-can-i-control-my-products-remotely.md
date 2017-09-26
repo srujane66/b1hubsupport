@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '00200'
 categories: application
 title: Can I control my products remotely?
 ---

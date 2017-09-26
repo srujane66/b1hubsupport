@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00200'
 categories: application
 title: Can I change my registered email account?
 ---

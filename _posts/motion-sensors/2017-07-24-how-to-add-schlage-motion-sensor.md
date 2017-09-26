@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '01400'
 categories: motion-sensors
 title: How to add Schlage Motion Sensor?
 ---

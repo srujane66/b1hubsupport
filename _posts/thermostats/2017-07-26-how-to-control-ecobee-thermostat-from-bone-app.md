@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '02300'
 categories: thermostats
 title: How to control Ecobee Thermostat from B.One App?
 ---

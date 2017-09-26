@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '02100'
 categories: smoke-co-detectors
 title: How to add Nest protect to the Hub?
 ---

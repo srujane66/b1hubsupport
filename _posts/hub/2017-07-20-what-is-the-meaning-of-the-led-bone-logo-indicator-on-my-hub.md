@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00300'
 categories: hub
 title: What is the meaning of the LED (B.One logo) indicator on my Hub?
 ---

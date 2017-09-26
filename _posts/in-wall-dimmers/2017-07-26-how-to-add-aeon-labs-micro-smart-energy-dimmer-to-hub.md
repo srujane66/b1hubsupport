@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to add Aeon Labs Micro Smart Energy Dimmer to Hub
 ---

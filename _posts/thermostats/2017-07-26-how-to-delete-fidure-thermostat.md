@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01300'
+catid: '02300'
 categories: thermostats
 title: How to delete Fidure Thermostat?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00700'
 categories: curtain-controllers
 title: How to control Aeon Curtain Controller from B.One App?
 ---

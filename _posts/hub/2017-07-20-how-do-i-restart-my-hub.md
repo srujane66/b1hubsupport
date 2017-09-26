@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '00300'
 categories: hub
 title: How do I restart my Hub?
 ---

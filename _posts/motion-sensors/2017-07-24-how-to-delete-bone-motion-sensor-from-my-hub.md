@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '01400'
 categories: motion-sensors
 title: How to delete B.One Motion Sensor from my Hub?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00300'
 categories: hub
 title: How does the B.One Hub communicate with Z-Wave,BLE, Wi-Fi  and ZigBee devices ?
 ---

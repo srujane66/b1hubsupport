@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '01100'
 categories: switches
 title: How to add Aeon Labs Smart Switch Gen 5?
 ---

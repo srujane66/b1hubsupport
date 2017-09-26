@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '01400'
 categories: motion-sensors
 title: How can I Control Schlage Motion Sensor using B.One App?
 ---

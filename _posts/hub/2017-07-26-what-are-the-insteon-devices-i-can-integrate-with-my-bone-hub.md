@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '00300'
 categories: hub
 title: What are the Insteon devices I can integrate with my B.One Hub?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '01400'
 categories: motion-sensors
 title: How to delete Schlage Motion Sensor from Hub?
 ---

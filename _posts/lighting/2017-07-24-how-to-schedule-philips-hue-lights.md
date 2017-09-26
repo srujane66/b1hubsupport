@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00500'
 categories: lighting
 title: How to schedule Philips Hue lights?
 ---

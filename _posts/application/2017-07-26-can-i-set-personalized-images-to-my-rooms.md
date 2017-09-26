@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01600'
+catid: '00200'
 categories: application
 title: Can I set personalized images to my Rooms?
 ---

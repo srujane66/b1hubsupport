@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00800'
 categories: dual-load-switches
 title: How to control Fibaro Double Switch 2 using B.One App?
 ---

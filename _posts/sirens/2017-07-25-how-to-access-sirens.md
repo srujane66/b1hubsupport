@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01900'
 categories: sirens
 title: How to access Sirens?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '02400'
 categories: energy-management
 title: How to add Aeotec Two Phase to the Hub?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01600'
+catid: '01100'
 categories: switches
 title: How to delete Switches from the Hub?
 ---

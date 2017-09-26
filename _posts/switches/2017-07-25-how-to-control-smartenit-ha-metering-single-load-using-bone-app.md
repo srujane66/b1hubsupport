@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01300'
+catid: '01100'
 categories: switches
 title: How to control Smartenit HA Metering Single Load using B.One App?
 ---

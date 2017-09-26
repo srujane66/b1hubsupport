@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01900'
 categories: sirens
 title: How to control Aeon Labs Siren Gen (5) using B.One App?
 ---

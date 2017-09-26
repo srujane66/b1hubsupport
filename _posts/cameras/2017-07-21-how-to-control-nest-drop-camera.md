@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01300'
 categories: cameras
 title: How to control Nest Drop Camera?
 ---

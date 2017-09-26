@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01400'
 categories: motion-sensors
 title: How to access Motion Sensors?
 ---

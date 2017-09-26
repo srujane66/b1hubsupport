@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00700'
 categories: curtain-controllers
 title: How to add an Aeon Curtain Controller to the Hub?
 ---

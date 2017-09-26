@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00300'
 categories: hub
 title: Does B.One support Amazon Echo?
 ---

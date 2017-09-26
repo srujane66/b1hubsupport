@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00500'
 categories: lighting
 title: How to add Philips Hue lights?
 ---

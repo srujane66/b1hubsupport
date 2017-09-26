@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '01100'
 categories: switches
 title: How to control Centralite 3-Series Plug-in Switch (ZIGBEE) using B.One App?
 ---

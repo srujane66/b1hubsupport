@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01300'
 categories: cameras
 title: How to add Nest Drop camera to the Hub?
 ---

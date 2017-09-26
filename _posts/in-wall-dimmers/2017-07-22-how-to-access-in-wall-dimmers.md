@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to access In-Wall Dimmers?
 ---

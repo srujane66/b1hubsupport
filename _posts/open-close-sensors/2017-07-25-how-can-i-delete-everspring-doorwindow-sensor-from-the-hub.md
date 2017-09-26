@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01900'
+catid: '01600'
 categories: open-close-sensors
 title: How can I delete Everspring Door/Window Sensor from the Hub?
 ---

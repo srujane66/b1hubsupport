@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: open-close-sensors
+postid: '00100'
+catid: '02400'
+categories: energy-management
 title: How to access Energy Management?
 ---
 

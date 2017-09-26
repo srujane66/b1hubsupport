@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00800'
 categories: dual-load-switches
 title: How to access Dual Load Switches?
 ---

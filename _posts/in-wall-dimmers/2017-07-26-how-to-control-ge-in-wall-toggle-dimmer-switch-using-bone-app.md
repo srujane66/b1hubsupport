@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01400'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to control GE In-Wall Toggle Dimmer Switch using B.One App
 ---

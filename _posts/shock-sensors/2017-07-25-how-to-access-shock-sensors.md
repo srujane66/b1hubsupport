@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01800'
 categories: shock-sensors
 title: How to access Shock Sensors?
 ---

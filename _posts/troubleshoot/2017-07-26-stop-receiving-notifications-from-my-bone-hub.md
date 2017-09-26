@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00400'
 categories: troubleshoot
 title: Stop receiving notifications from my B.One Hub
 ---

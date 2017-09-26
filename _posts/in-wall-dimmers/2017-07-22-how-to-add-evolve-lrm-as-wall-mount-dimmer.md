@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to add Evolve LRM As Wall Mount Dimmer?
 ---

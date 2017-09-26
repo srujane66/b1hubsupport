@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01700'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to control Jasco Wireless Smart Dimmer using App
 ---

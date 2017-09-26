@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02900'
 categories: remotes
 title: How to access Remotes?
 ---

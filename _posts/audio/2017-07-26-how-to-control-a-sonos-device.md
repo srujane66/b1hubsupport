@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00600'
 categories: audio
 title: How to control a Sonos device
 ---

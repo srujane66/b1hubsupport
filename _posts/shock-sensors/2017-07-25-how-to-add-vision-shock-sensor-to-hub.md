@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01800'
 categories: shock-sensors
 title: How to add Vision Shock Sensor to Hub?
 ---

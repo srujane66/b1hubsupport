@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01400'
+catid: '00200'
 categories: application
 title: How can I add a new action to my B.One account?
 ---

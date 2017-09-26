@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '00800'
 categories: dual-load-switches
 title: How to add an additional Z-Wave Dual Load Switch?
 ---

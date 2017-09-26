@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01900'
+catid: '00100'
 categories: general
 title: Can I configure my B.One Hub to a corporate network ?
 ---

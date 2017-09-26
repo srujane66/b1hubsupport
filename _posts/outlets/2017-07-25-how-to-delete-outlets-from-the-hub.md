@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '01000'
 categories: outlets
 title: How to delete Outlets from the hub?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01900'
+catid: '00200'
 categories: application
 title: How to Reset a Z-wave, ZigBee and BLE radio from the Hub?
 ---

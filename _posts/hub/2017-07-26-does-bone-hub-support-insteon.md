@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '00300'
 categories: hub
 title: Does B.One Hub support Insteon?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02100'
 categories: smoke-co-detectors
 title: How to access Smoke/CO Detectors?
 ---

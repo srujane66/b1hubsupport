@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '01500'
 categories: multi-sensors
 title: How to add Fibaro Multi Sensor?
 ---

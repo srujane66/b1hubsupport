@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00500'
 categories: lighting
 title: How to delete Cree Connected Bulb (ZIGBEE) from the Hub?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00100'
 categories: general
 title: Do I need to charge my Hub before connecting it for the first time?
 ---

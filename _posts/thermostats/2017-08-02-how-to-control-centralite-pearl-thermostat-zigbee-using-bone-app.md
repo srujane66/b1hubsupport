@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '02300'
 categories: thermostats
 title: How to control Centralite Pearl Thermostat (ZIGBEE) using B.One App?
 ---

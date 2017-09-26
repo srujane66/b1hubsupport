@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '00500'
 categories: lighting
 title: How to add Lifx lights?
 ---

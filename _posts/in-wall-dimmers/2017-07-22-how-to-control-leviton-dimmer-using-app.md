@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01900'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to control Leviton Dimmer using App?
 ---

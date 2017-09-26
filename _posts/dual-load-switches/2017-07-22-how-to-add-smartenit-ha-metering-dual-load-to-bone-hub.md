@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '00800'
 categories: dual-load-switches
 title: How to add Smartenit HA Metering Dual Load to B.One Hub?
 ---

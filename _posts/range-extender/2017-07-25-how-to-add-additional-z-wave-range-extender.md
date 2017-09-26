@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '01700'
 categories: range-extender
 title: How to add Additional Z-Wave Range Extender?
 ---

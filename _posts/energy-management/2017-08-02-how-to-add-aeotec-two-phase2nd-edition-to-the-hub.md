@@ -1,14 +1,16 @@
 ---
 layout: post
+postid: '00300'
+catid: '02400'
 categories: energy-management
-title: How to add Aeontec Two Phase(2nd edition) to the Hub?
+title: How to add Aeotec Two Phase(2nd edition) to the Hub?
 ---
 
 1. Tap **My Devices**
 
 2. Select ‘+’ button present on the bottom of your screen. Select **Energy Management.**
 
-3. Select **Aeontec Two Phase**.
+3. Select **Aeotec Two Phase**.
 
 4. To pair this device, tap **Next** button.
 

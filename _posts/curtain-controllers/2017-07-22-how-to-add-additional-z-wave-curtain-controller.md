@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '00700'
 categories: curtain-controllers
 title: How to add additional Z-Wave Curtain Controller?
 ---

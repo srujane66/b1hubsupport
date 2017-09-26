@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01800'
+catid: '00200'
 categories: application
 title: What is the functionality of Activity Feed?
 ---

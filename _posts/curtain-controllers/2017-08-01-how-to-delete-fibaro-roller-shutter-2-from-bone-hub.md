@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00700'
 categories: curtain-controllers
 title: How to delete Fibaro Roller Shutter 2 from B.One Hub?
 ---

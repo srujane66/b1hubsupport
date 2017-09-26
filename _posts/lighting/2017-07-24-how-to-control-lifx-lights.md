@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '00500'
 categories: lighting
 title: How to control Lifx lights?
 ---

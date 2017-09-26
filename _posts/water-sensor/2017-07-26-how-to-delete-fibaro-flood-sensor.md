@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '02200'
 categories: water-sensor
 title: How to delete Fibaro Flood Sensor?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '00200'
 categories: application
 title: How do I remove a user from my account?
 ---

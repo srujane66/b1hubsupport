@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '01300'
 categories: cameras
 title: How to delete Nest Drop Camera from the Hub?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to control Aeon Labs Nano Dimmer using B.One App?
 ---

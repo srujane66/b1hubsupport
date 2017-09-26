@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00300'
 categories: hub
 title: How do I add Z-wave devices to my B.One Hub?
 ---

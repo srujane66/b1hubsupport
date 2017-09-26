@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00400'
 categories: troubleshoot
 title: Not receiving SMS notifications
 ---

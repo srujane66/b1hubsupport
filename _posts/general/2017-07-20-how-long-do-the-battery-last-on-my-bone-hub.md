@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02300'
+catid: '00100'
 categories: general
 title: How long do the battery last on my B.One Hub?
 ---

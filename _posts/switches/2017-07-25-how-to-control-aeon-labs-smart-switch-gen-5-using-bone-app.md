@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '01100'
 categories: switches
 title: How to control Aeon Labs Smart Switch Gen 5 using B.One App?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to add Aeon Labs Micro Dimmer?
 ---

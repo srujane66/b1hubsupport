@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02400'
+catid: '00100'
 categories: general
 title: How to return a product for a refund or exchange?
 ---

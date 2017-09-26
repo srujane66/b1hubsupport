@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01700'
 categories: range-extender
 title: How to add Aeon Labs Z-Wave Range Extender?
 ---

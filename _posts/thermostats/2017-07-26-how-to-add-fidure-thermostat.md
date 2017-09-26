@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '02300'
 categories: thermostats
 title: How to add Fidure Thermostat?
 ---

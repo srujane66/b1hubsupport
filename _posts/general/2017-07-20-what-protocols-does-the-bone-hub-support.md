@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '00100'
 categories: general
 title: What protocols does the B.One Hub support?
 ---

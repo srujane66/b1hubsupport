@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01200'
+catid: '00500'
 categories: lighting
 title: How to remove Lifx lights?
 ---

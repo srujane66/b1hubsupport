@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00200'
 categories: application
 title: How do I change/reset my password?
 ---

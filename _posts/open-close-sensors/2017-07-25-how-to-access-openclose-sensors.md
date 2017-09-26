@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01600'
 categories: open-close-sensors
 title: How to access Open/Close Sensors?
 ---

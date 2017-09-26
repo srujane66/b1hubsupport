@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '01400'
 categories: motion-sensors
 title: How to add Additional Z-Wave Motion Sensor?
 ---

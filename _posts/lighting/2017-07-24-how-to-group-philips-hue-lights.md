@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00500'
 categories: lighting
 title: How to group Philips Hue lights?
 ---

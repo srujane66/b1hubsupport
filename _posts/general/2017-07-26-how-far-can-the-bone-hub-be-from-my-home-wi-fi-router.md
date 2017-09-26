@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02000'
+catid: '00100'
 categories: general
 title: How far can the B.One Hub be from my home Wi-Fi router ?
 ---

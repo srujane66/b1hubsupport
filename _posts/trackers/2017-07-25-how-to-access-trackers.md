@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02600'
 categories: trackers
 title: How to access Trackers?
 ---

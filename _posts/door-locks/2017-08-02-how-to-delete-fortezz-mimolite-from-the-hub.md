@@ -1,7 +1,9 @@
 ---
 layout: post
+postid: '00300'
+catid: '02000'
 categories: door-locks
-title: How to delete FortezZ MIMOlite from the Hub?
+title: How to delete FortrezZ MIMOlite from the Hub?
 ---
 
 Method 1:

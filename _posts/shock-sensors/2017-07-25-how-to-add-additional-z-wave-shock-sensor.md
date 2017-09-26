@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '01800'
 categories: shock-sensors
 title: How to add Additional Z-Wave Shock Sensor?
 ---

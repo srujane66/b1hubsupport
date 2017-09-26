@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01200'
 categories: color-controllers
 title: How to access Color Controllers from the Hub?
 ---

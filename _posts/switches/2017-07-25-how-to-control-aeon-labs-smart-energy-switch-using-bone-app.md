@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01100'
 categories: switches
 title: How to control Aeon Labs Smart Energy Switch using B.One App?
 ---

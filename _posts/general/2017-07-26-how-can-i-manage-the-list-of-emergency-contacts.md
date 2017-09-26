@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02100'
+catid: '00100'
 categories: general
 title: How can I manage the list of emergency contacts?
 ---

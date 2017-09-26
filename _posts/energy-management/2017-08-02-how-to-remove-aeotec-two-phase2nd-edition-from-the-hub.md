@@ -1,7 +1,9 @@
 ---
 layout: post
+postid: '00500'
+catid: '02400'
 categories: energy-management
-title: How to remove Aeontec Two Phase(2nd edition) from the Hub?
+title: How to remove Aeotec Two Phase(2nd edition) from the Hub?
 ---
 
 Method 1:

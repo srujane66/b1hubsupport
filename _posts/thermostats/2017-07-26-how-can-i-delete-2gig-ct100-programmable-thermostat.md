@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '02300'
 categories: thermostats
 title: How can I delete 2Gig CT100 Programmable Thermostat?
 ---

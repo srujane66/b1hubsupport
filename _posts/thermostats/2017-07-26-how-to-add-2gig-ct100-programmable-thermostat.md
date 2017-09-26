@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '02300'
 categories: thermostats
 title: How to add 2Gig CT100 Programmable Thermostat?
 ---

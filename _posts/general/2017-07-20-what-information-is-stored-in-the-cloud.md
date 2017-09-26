@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '00100'
 categories: general
 title: What information is stored in the cloud?
 ---

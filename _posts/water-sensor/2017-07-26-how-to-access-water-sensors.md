@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02200'
 categories: water-sensor
 title: How to access Water Sensors?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '01400'
 categories: motion-sensors
 title: How to add Ecolink PIR Motion Sensor?
 ---

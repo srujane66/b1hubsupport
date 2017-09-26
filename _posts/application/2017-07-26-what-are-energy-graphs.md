@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02100'
+catid: '00200'
 categories: application
 title: What are Energy Graphs?
 ---

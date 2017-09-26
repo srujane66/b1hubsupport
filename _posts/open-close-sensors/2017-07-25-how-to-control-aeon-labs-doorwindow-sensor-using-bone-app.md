@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01600'
 categories: open-close-sensors
 title: How to control Aeon Labs Door/Window Sensor using B.One App?
 ---

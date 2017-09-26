@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01700'
 categories: range-extender
 title: How to access Range Extenders?
 ---

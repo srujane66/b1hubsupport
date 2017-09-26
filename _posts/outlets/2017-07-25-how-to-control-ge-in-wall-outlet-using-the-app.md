@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01000'
 categories: outlets
 title: How to control GE In-Wall Outlet using the app?
 ---

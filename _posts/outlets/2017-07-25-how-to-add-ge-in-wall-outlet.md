@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01000'
 categories: outlets
 title: How to add GE In-Wall Outlet?
 ---

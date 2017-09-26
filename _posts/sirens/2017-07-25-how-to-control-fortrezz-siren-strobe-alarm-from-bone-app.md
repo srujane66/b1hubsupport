@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '01900'
 categories: sirens
 title: How to control FortrezZ Siren Strobe Alarm from B.One App?
 ---

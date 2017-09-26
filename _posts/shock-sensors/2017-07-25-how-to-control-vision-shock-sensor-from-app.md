@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01800'
 categories: shock-sensors
 title: How to Control Vision Shock Sensor from App?
 ---

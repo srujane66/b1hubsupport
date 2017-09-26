@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01300'
+catid: '00100'
 categories: general
 title: Can I change the registered Email address?
 ---

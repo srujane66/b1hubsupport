@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01300'
+catid: '00300'
 categories: hub
 title: Due to connectivity issues I couldn't complete the setup process. How do I reset B.One Hub and start over again?
 ---

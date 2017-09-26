@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '00800'
 categories: dual-load-switches
 title: How to add Fibaro Double Switch 2?
 ---

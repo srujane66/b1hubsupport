@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02000'
 categories: door-locks
 title: How to access Door Locks from the Hub?
 ---

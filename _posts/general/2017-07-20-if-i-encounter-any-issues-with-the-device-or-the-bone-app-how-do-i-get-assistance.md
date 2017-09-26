@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02700'
+catid: '00100'
 categories: general
 title: If I encounter any issues with the device or the B.One App how do I get assistance?
 ---

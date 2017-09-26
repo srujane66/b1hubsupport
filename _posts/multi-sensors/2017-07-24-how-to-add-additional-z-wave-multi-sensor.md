@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '01500'
 categories: multi-sensors
 title: How to add Additional Z-Wave Multi Sensor?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '00100'
 categories: general
 title: What happens in the event of Internet connection and/or power outage?
 ---

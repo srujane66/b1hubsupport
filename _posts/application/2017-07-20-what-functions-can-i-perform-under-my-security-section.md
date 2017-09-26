@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00200'
 categories: application
 title: What functions can I perform under My security section?
 ---

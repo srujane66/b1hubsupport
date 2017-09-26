@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01700'
 categories: range-extender
 title: How to delete Aeon Labs Z-Wave Range Extender using B.One App?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01500'
+catid: '01100'
 categories: switches
 title: How to control Ge In-Wall Toggle On/Off Switch using B.One App?
 ---

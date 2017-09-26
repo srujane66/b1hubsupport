@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02000'
+catid: '00200'
 categories: application
 title: How to configure Actions?
 ---

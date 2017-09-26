@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '01400'
 categories: motion-sensors
 title: How to control Ecolink PIR Motion Sensor using B.One App?
 ---

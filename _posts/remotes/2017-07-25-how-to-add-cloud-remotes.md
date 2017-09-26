@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '02900'
 categories: remotes
 title: How to add Cloud Remotes?
 ---

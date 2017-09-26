@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02000'
+catid: '01600'
 categories: open-close-sensors
 title: How to add Fibaro Door/Window Sensor?
 ---

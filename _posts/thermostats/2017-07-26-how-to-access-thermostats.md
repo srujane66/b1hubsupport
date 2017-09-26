@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02300'
 categories: thermostats
 title: How to access Thermostats?
 ---

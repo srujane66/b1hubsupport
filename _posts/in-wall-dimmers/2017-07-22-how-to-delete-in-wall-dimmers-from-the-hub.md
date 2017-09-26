@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02100'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to delete In-Wall Dimmers from the Hub?
 ---

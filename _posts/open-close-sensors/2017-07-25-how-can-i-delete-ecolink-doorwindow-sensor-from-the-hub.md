@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01300'
+catid: '01600'
 categories: open-close-sensors
 title: How can I delete Ecolink Door/Window sensor from the Hub?
 ---

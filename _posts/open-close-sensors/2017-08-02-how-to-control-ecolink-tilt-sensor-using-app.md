@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01500'
+catid: '01600'
 categories: open-close-sensors
 title: How to control Ecolink Tilt Sensor using App?
 ---

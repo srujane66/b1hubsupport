@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '01100'
 categories: switches
 title: How to control Aeon Labs Smart Switch Gen 6 using App?
 ---

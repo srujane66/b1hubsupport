@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02500'
+catid: '00100'
 categories: general
 title: Can I connect a device that isn't supported by B.One Hub?
 ---

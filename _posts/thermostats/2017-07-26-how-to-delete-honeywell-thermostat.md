@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01600'
+catid: '02300'
 categories: thermostats
 title: How to delete Honeywell Thermostat?
 ---

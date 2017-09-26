@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02200'
+catid: '01600'
 categories: open-close-sensors
 title: How can I delete Fibaro Door/Window Sensor from the Hub?
 ---

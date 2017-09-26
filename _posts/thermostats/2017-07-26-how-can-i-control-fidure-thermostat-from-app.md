@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01200'
+catid: '02300'
 categories: thermostats
 title: How can I control Fidure Thermostat from App?
 ---

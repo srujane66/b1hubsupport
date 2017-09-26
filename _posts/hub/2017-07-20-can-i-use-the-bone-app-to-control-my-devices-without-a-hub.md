@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '00300'
 categories: hub
 title: Can I use the B.One app to control my devices without a hub?
 ---

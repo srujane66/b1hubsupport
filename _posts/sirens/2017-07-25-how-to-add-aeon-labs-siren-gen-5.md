@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01900'
 categories: sirens
 title: How to add Aeon Labs Siren Gen (5)?
 ---

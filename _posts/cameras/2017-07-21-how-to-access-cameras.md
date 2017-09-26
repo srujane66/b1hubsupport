@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01300'
 categories: cameras
 title: How to access Cameras?
 ---

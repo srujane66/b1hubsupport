@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01200'
 categories: color-controllers
 title: How to add an Fibaro RGBW Controller?
 ---

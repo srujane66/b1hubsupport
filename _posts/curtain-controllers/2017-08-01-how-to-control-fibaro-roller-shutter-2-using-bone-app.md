@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '00700'
 categories: curtain-controllers
 title: How to control Fibaro Roller Shutter 2 using B.One App?
 ---

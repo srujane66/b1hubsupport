@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01500'
+catid: '00100'
 categories: general
 title: What is the data usage of B.One app?
 ---

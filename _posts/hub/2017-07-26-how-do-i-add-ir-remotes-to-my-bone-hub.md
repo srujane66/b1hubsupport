@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '00300'
 categories: hub
 title: How do I add IR Remotes to my B.One Hub?
 ---

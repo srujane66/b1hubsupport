@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02000'
+catid: '02300'
 categories: thermostats
 title: How to add Additional Z-Wave Thermostat?
 ---

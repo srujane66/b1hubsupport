@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01400'
 categories: motion-sensors
 title: How to control B.One Motion Sensor using B.One App?
 ---

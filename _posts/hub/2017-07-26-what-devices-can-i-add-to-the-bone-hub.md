@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00300'
 categories: hub
 title: What devices can I add to the B.One Hub?
 ---

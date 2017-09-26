@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '01100'
 categories: switches
 title: How to control Aeon Labs Heavy Duty Smart Switch using B.One App?
 ---

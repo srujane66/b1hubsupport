@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00300'
+catid: '01200'
 categories: color-controllers
 title: How to delete Fibaro RGBW Controller to the Hub?
 ---

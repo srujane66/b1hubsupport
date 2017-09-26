@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01500'
 categories: multi-sensors
 title: How to add Aeon Labs Multi Sensor Gen 5?
 ---

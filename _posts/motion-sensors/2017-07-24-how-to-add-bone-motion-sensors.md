@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '01400'
 categories: motion-sensors
 title: How to add B.One Motion Sensors?
 ---

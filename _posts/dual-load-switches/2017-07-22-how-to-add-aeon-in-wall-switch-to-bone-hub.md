@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '00800'
 categories: dual-load-switches
 title: How to add Aeon In-Wall Switch to B.One Hub?
 ---

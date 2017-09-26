@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00400'
 categories: troubleshoot
 title: Unable to pair a Z Wave, Zigbee device
 ---

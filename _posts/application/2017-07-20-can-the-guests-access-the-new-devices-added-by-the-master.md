@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '00200'
 categories: application
 title: Can the guests access the new devices added by the master?
 ---

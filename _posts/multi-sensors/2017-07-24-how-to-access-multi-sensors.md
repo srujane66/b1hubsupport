@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '01500'
 categories: multi-sensors
 title: How to access Multi Sensors?
 ---

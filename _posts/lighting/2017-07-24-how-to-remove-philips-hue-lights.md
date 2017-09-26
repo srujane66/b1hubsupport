@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '00500'
 categories: lighting
 title: How to remove Philips Hue lights?
 ---

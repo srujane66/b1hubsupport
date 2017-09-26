@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '01900'
 categories: sirens
 title: How to control B.One Siren?
 ---

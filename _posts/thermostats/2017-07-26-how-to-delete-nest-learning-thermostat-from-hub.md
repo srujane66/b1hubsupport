@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01900'
+catid: '02300'
 categories: thermostats
 title: How to delete Nest Learning Thermostat from Hub?
 ---

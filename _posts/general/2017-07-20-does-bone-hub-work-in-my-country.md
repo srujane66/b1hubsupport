@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02600'
+catid: '00100'
 categories: general
 title: Does B.One Hub work in my country?
 ---

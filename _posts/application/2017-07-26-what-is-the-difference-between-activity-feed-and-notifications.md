@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '00200'
 categories: application
 title: What is the difference between Activity Feed and Notifications ?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00500'
 categories: lighting
 title: How to access Cree Connected Bulb (ZIGBEE) from the Hub?
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
-postid: 00200
-categories: amazon-echo
+postid: '00200'
+catid: '02700'
+categories: amazon-alexa
 title: How to setup your Echo?
 ---
 

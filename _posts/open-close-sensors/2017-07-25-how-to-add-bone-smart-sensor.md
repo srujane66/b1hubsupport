@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00800'
+catid: '01600'
 categories: open-close-sensors
 title: How to add B.One Smart Sensor?
 ---

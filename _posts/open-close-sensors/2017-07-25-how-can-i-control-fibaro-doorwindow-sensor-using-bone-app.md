@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02100'
+catid: '01600'
 categories: open-close-sensors
 title: How can I control Fibaro Door/Window Sensor using B.One App?
 ---

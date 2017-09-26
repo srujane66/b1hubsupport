@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01100'
+catid: '01900'
 categories: sirens
 title: How to add Additional Z-Wave Siren?
 ---

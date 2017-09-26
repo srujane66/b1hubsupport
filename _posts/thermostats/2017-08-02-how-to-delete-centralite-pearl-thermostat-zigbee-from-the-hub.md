@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '02300'
 categories: thermostats
 title: How to delete Centralite Pearl Thermostat (ZIGBEE) from the Hub?
 ---

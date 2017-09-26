@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '02500'
 categories: insteon-devices
 title: How to access Insteon Devices from the Hub?
 ---

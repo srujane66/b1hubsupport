@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01800'
+catid: '02300'
 categories: thermostats
 title: How to control Nest Learning Thermostat from App?
 ---

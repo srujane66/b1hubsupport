@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '01400'
 categories: motion-sensors
 title: How can I delete Ecolink PIR Motion Sensor from my Hub?
 ---

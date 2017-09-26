@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00500'
+catid: '01900'
 categories: sirens
 title: How to add B.One Siren?
 ---

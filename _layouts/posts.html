@@ -4,7 +4,7 @@ layout: default
 {% include search-results.html %}
 
 {% assign cat = page.category %}
-{% assign posts = site.categories[cat] | sort: 'title' %}
+{% assign posts = site.categories[cat] | sort:'postid' %}
 
 <div id="content-container">
   {% include breadcrumbs.html %}

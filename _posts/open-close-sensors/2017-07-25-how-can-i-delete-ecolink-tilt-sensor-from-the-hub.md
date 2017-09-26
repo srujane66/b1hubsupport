@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01600'
+catid: '01600'
 categories: open-close-sensors
 title: How can I delete Ecolink Tilt Sensor from the Hub?
 ---

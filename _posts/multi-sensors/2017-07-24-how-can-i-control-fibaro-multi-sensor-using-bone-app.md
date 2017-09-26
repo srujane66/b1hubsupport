@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00900'
+catid: '01500'
 categories: multi-sensors
 title: How can I control Fibaro Multi Sensor using B.One App?
 ---

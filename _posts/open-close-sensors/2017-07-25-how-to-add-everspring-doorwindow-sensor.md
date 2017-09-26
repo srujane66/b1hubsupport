@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01700'
+catid: '01600'
 categories: open-close-sensors
 title: How to add Everspring Door/Window Sensor?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01000'
+catid: '00100'
 categories: general
 title: Do I have any panic button in my B.One App?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00700'
 categories: curtain-controllers
 title: How to access curtain controllers from the Hub?
 ---

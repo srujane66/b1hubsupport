@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00200'
+catid: '02300'
 categories: thermostats
 title: How to add Centralite Pearl Thermostat (ZIGBEE)?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00100'
+catid: '00600'
 categories: audio
 title: How to add a Sonos device
 ---

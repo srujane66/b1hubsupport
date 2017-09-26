@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '01800'
 categories: shock-sensors
 title: How to delete Vision Shock Sensor?
 ---

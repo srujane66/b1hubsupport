@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '02000'
+catid: '00900'
 categories: in-wall-dimmers
 title: How to add Additional Z-Wave Dimmers?
 ---

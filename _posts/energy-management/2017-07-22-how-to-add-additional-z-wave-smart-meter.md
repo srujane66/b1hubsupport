@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00600'
+catid: '02400'
 categories: energy-management
 title: How to add additional Z-Wave Smart meter?
 ---

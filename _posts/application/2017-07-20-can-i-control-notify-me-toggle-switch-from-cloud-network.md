@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01500'
+catid: '00200'
 categories: application
 title: Can I control Notify Me toggle switch from cloud network?
 ---

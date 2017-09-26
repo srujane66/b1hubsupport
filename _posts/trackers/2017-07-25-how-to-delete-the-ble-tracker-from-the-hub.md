@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00400'
+catid: '02600'
 categories: trackers
 title: How to delete the BLE Tracker from the Hub?
 ---

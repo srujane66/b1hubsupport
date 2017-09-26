@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '00700'
+catid: '01900'
 categories: sirens
 title: How to delete B.One Siren?
 ---

@@ -1,5 +1,7 @@
 ---
 layout: post
+postid: '01200'
+catid: '00300'
 categories: hub
 title: When IP address of Phillips Hue Bridge is changed, can I still control Phillips Hue devices?
 ---
