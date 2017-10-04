@@ -18,4 +18,4 @@ Step 4: Enter the device information. Tap **Done**.
 
 ![]({{ site.img }}/52EUyk8wWcw1487885725965-5.jpg)
 
-[aeon-curtain-controller-UserManual.pdf]({{ site.img }}/aeon-curtain-controller-UserManual.pdf)
+[aeon-curtain-controller-UserManual.pdf]({{ site.pdf }}/aeon-curtain-controller-UserManual.pdf)

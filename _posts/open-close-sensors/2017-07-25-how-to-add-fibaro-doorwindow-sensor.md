@@ -20,4 +20,4 @@ title: How to add Fibaro Door/Window Sensor?
 
     ![]({{ site.img }}/Y1TaZVi8oww1487964701088-untitled.jpg)
 
-[Fibaro Door Window Sensor_manual.pdf]({{ site.pdf }}/ href="../../s3.amazonaws.com/helpsite-uploads/ccuamt_-fmhovk6wstqbnkrgquc/UKN16y76e-s1488867515791-Fibaro%2bDoor%2bWindow%2bSensor_manual.pdf)
+[Fibaro Door Window Sensor_manual.pdf]({{ site.pdf }}/UKN16y76e-s1488867515791-Fibaro%2bDoor%2bWindow%2bSensor_manual.pdf)

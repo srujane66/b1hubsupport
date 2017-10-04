@@ -1,0 +1,8 @@
+title: B.One - Frequently Asked Questions & Support
+description: B1Hub Support Pages and Frequently Asked Questions.
+baseurl: "http://support.b1hub.com"
+permalink: /:categories/:title/
+url: http://support.b1hub.com/
+exclude: ['README.md', 'ignore']
+img: 'http://support.b1hub.com/assets/img/support-images'
+pdf: 'http://support.b1hub.com/assets/pdf'

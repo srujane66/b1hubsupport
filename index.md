@@ -17,7 +17,7 @@ search_omit: true
         {% for post in sorted_posts | limit:5 %}
           <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
-        <li class="view-all"><a href="{{ site.baseurl}}/{{ category[0] }}/"><small>View all</small></a></li>
+        <li class="view-all"><a href="{{ site.baseurl}}/{{ category }}/"><small>View all</small></a></li>
       </ul>
     </div>
   {% endfor %}
