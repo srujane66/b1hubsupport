@@ -16,4 +16,4 @@ Step 4: Tap **Next** button. Then click the black button on the rear of the swi
 
 Step 5: Enter the device information and tap** Done**.
 
-    ![]({{ site.img }}/image50.png)
+![]({{ site.img }}/image50.png)

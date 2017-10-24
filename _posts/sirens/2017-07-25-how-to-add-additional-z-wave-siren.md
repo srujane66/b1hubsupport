@@ -20,4 +20,4 @@ title: How to add Additional Z-Wave Siren?
 
 **NOTE:**Only the z-wave compatible devices present in B.One ecosystem can be added to the hub.
 
-    ![]({{ site.img }}/NFEGpr8E2E01487971059295-untitled.jpg)
+![]({{ site.img }}/NFEGpr8E2E01487971059295-untitled.jpg)

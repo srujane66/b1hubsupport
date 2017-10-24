@@ -20,4 +20,4 @@ title: How to add Additional Z-Wave Outlets?
 
 NOTE: Only the z-wave compatible devices present in B.One ecosystem can be added to the hub.
 
-    ![]({{ site.img }}/ykxaX2k-vtg1487966025611-untitled.jpg)
+![]({{ site.img }}/ykxaX2k-vtg1487966025611-untitled.jpg)

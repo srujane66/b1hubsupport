@@ -18,4 +18,4 @@ title: How to add BLE Tracker?
 
 NOTE: If you see green LED blinking after pressing the white button, it means that the device has already been activated. Delete the tracker from other device and add it again.
 
-    ![]({{ site.img }}/hf9sRUc4qP41487972777359-untitled.jpg)
+![]({{ site.img }}/hf9sRUc4qP41487972777359-untitled.jpg)
