@@ -20,4 +20,4 @@ title: How to add Additional Z-Wave Water Sensor?
 
 NOTE: Only the z-wave compatible devices present in B.One ecosystem can be added to the hub.
 
-![]({{ site.img }}/W2O8sbr3if01487973800347-untitled.jpg)
+    ![]({{ site.img }}/W2O8sbr3if01487973800347-untitled.jpg)

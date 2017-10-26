@@ -14,4 +14,4 @@ Step 3: In order to pair the device, tap on the **Next** button on the bottom o
 
 Step 4: Enter the device information. Tap **Done**.
 
-![]({{ site.img }}/image45.png)
+    ![]({{ site.img }}/image45.png)

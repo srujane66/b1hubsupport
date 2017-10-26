@@ -66,3 +66,9 @@ h3 a, h3 a:hover,
     min-height: 240px;
   }
 }
+
+@media (min-width: 768px) {
+  .article-content img {
+    max-width: 220px;
+  }
+}

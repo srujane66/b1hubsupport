@@ -20,4 +20,4 @@ title: How to add Additional Z-Wave Thermostat?
 
 **NOTE:**Only the Z-Wave devices present in B.One ecosystem can be added.
 
-![]({{ site.img }}/ReeL5HP0UzM1487976807382-untitled.jpg)
+    ![]({{ site.img }}/ReeL5HP0UzM1487976807382-untitled.jpg)
