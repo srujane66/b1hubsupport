@@ -16,10 +16,10 @@ title: How to add Aeon Labs Z-Wave Range Extender?
 
 5. Enter the device information and tap**Done**.
 
-    ![]({{ site.img }}/1AO5nIh6Wgo1487966796432-untitled.jpg)
+![]({{ site.img }}/1AO5nIh6Wgo1487966796432-untitled.jpg)
 
 Note: Aeon Labs Z-Wave Range Extender can't be accessed using B.One App.
 
-    ![]({{ site.img }}/1AO5nIh6Wgo1487966907086-untitled.jpg)
+![]({{ site.img }}/1AO5nIh6Wgo1487966907086-untitled.jpg)
 
 [Range Extender_manual.pdf]({{ site.pdf }}/Ul31VXgrvmU1488867969821-Range%2bExtender_manual.pdf)

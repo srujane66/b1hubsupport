@@ -14,4 +14,4 @@ Step 3: Make sure the bulb is ON. Now, switch OFF the bulb for 2 seconds and swi
 
 Step 4: Tap on **Delete Device**. Now the bulb is deleted from the hub.
 
-    ![]({{ site.img }}/image24.png)
+![]({{ site.img }}/image24.png)

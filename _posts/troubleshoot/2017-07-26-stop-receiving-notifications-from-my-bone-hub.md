@@ -16,8 +16,4 @@ title: Stop receiving notifications from my B.One Hub
 
 * Tap on **Notifications**. Turn OFF the toggle switch of Enable notification.
 
-    ![]({{ site.img }}/Screenshot_2017-03-02-14-23-21-306.jpeg)
-
-    ![]({{ site.img }}/Screenshot_2017-03-02-14-23-26-721.jpeg)
-
-    ![]({{ site.img }}/Screenshot_2017-03-02-14-23-38-994.jpeg)
+![]({{ site.img }}/Screenshot_2017-03-02-14-23-21-306.jpeg) ![]({{ site.img }}/Screenshot_2017-03-02-14-23-26-721.jpeg) ![]({{ site.img }}/Screenshot_2017-03-02-14-23-38-994.jpeg)

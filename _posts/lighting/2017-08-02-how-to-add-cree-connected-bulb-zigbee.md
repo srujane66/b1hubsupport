@@ -14,4 +14,4 @@ Step 3: Select **Cree Connected Bulb.** Tap **Next** button and power ON the bu
 
 Step 3: Enter the device information and tap** Done**.
 
-    ![]({{ site.img }}/image23.png)
+![]({{ site.img }}/image23.png)

@@ -18,5 +18,6 @@ title: How to add Smartenit HA Metering Dual Load to B.One Hub?
 
 6. Tap**Done.**
 
-    ![]({{ site.img }}/QMI2RIeqmE01487886996212-01.jpg)
-    [SmartenitHametering_manual.pdf]({{ site.pdf }}/_CMMFX6Jjic1488521001739-SmartenitHametering_manual.pdf)
+![]({{ site.img }}/QMI2RIeqmE01487886996212-01.jpg)
+
+[SmartenitHametering_manual.pdf]({{ site.pdf }}/_CMMFX6Jjic1488521001739-SmartenitHametering_manual.pdf)

@@ -23,6 +23,7 @@ Before starting, make sure you install Nest android or iOS application on your d
 6. Tap on **Accept.**
 
 7. Enter Device Information and tap on**Done**. Nest Protect will be added to **My Devices**.
+
     ![]({{ site.img }}/tZuKFWEVXlE1487894058455-7.jpg)
 
 [Nest_PROTECT_manual.pdf]({{ site.pdf }}/U14FLr6qEj01488869559771-Nest_PROTECT_manual.pdf)
