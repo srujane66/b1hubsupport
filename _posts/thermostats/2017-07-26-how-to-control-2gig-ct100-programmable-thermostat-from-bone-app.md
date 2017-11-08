@@ -14,4 +14,4 @@ title: How to control 2Gig CT100 Programmable Thermostat from B.One App?
 
 By tapping refresh icon present at the right side of the screen, the latest activities performed by the device can be viewed.
 
-    ![]({{ site.img }}/rfJtGUHXBTE1487974693625-untitled.jpg)
+![]({{ site.img }}/rfJtGUHXBTE1487974693625-untitled.jpg)

@@ -20,4 +20,4 @@ title: How to add Additional Z-Wave Shock Sensor?
 
 NOTE: Only the z-wave compatible devices present in B.One ecosystem can be added to the hub.
 
-    ![]({{ site.img }}/I16CdoRH62Q1487969716420-untitled.jpg)
+![]({{ site.img }}/I16CdoRH62Q1487969716420-untitled.jpg)
