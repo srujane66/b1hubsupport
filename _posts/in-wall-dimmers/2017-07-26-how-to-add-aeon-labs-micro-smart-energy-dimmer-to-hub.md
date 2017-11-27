@@ -14,6 +14,6 @@ title: How to add Aeon Labs Micro Smart Energy Dimmer to Hub
 
 4. Enter the device information. Tap **Done.**
 
-    ![]({{ site.img }}/-_B63Rvlw8k1487888749625-9.jpg)
+![]({{ site.img }}/B63Rvlw8k1487888749625.jpg)
 
 [AeonLabs-MicroSmartEnergyDimmer-UserManual.pdf]({{ site.pdf }}/94hAUQAa1AY1488521942076-AeonLabs-MicroSmartEnergyDimmer-UserManual.pdf)

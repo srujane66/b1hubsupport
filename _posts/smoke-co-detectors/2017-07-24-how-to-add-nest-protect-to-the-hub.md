@@ -18,13 +18,13 @@ Before starting, make sure you install Nest android or iOS application on your d
 
 5. Create an account using Nest mobile App before connecting the device to B.One Hub.
     
-    ![]({{ site.img }}/tZuKFWEVXlE1487893988266-6.jpg)
+![]({{ site.img }}/tZuKFWEVXlE1487893988266-6.jpg)
 
 6. Tap on **Accept.**
 
 7. Enter Device Information and tap on**Done**. Nest Protect will be added to **My Devices**.
 
-    ![]({{ site.img }}/tZuKFWEVXlE1487894058455-7.jpg)
+![]({{ site.img }}/tZuKFWEVXlE1487894058455-7.jpg)
 
 [Nest_PROTECT_manual.pdf]({{ site.pdf }}/U14FLr6qEj01488869559771-Nest_PROTECT_manual.pdf)
 
@@ -34,4 +34,4 @@ Before starting, make sure you install Nest android or iOS application on your d
 
 2. Tap on the **Nest Protect**, to view the sensor status.
 
-    ![]({{ site.img }}/tZuKFWEVXlE1487894163646-8.jpg)
+![]({{ site.img }}/tZuKFWEVXlE1487894163646-8.jpg)

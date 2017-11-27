@@ -20,4 +20,4 @@ title: How to add Additional Z-Wave Range Extender?
 
 7. Enter the Device Information and tap **Done**.
 
-    ![]({{ site.img }}/_OaCs4oaqS41487967278981-untitled.jpg)
+![]({{ site.img }}/S41487967278981.jpg)

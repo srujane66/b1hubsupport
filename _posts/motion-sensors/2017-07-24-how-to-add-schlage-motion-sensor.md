@@ -16,6 +16,6 @@ title: How to add Schlage Motion Sensor?
 
 5. Enter the device information and tap **Done**.
 
-    ![]({{ site.img }}/_1G-OjiBtXw1487957563825-untitled.jpg)
+![]({{ site.img }}/1G-OjiBtXw1487957563825.jpg)
 
 [Schlage Motion Sensor_manual.pdf]({{ site.pdf }}/rL_MHRfUd-E1488456327315-Schlage%2bMotion%2bSensor_manual.pdf)

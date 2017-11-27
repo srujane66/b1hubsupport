@@ -16,6 +16,6 @@ Step 1:Tap on **My Devices**. Select '+' icon present at the bottom of your scre
 
 5. Tap **Done**.
 
-    ![]({{ site.img }}/_f4aDEAxtAU1487971486550-untitled.jpg)
+![]({{ site.img }}/f4aDEAxtAU1487971486550.jpg)
 
 [AeonLabsSmartEnergySwitch_Manual.pdf]({{ site.pdf }}/g9I35k1-d9g1488535306379-AeonLabsSmartEnergySwitch_Manual.pdf)
