@@ -1,6 +1,6 @@
 ---
 layout: post
-postid: '00150'
+postid: '01500'
 catid: '00300'
 categories: hub
 title: My B.One Hub is disconnecting from cloud frequently. How do I keep the Hub and cloud always connected?
