@@ -2,7 +2,7 @@
 layout: post
 postid: '00200'
 catid: '02700'
-categories: amazon-alexa
+categories: voiceact
 title: How to setup your Echo?
 ---
 

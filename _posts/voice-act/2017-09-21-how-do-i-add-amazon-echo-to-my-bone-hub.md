@@ -2,7 +2,7 @@
 layout: post
 postid: '00100'
 catid: '02700'
-categories: amazon-alexa
+categories: voiceact
 title: How do I add Amazon Echo to my B.One Hub?
 ---
 
