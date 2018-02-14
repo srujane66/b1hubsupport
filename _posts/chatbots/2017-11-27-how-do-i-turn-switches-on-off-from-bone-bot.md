@@ -2,7 +2,7 @@
 layout: post
 postid: '00300'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: How do I turn Switches ON/OFF from B.One Bot?
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 postid: '00100'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: How do I connect to B.One Bot?
 ---
 

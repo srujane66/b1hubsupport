@@ -2,7 +2,7 @@
 layout: post
 postid: '01200'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: Do I receive Push notifications from B.One Bot?
 ---
 

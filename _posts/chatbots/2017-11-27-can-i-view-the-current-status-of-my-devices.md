@@ -2,7 +2,7 @@
 layout: post
 postid: '00500'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: Can I view the current status of my devices?
 ---
 

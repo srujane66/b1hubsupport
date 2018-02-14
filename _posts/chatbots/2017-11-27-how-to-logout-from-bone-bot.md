@@ -2,7 +2,7 @@
 layout: post
 postid: '01100'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: How to logout from B.One Bot?
 ---
 

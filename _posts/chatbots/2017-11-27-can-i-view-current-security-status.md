@@ -2,7 +2,7 @@
 layout: post
 postid: '00800'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: Can I view current Security status?
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 postid: '00400'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: How to control IR devices from B.One Bot?
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 postid: '01000'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: What do I find in Menu?
 ---
 

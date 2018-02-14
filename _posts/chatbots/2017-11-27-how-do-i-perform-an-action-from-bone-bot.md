@@ -2,7 +2,7 @@
 layout: post
 postid: '00700'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: How do I perform an Action from B.One Bot?
 ---
 

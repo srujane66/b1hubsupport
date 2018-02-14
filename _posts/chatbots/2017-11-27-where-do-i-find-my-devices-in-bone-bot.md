@@ -2,7 +2,7 @@
 layout: post
 postid: '00200'
 catid: '00450'
-categories: chatbot
+categories: chatbots
 title: Where do I find my devices in B.One Bot?
 ---
 
