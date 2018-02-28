@@ -3,7 +3,7 @@ layout: default
 search_omit: true
 ---
 
-{% assign cat_array = 'general, application, hub, troubleshoot, chatbots, lighting, audio, curtain-controllers, dual-load-switches, in-wall-dimmers, outlets, switches, color-controllers, cameras, motion-sensors, multi-sensors, open-close-sensors, range-extender, shock-sensors, sirens, door-locks, smoke-co-detectors, water-sensor, thermostats, energy-management, insteon-devices, trackers, voiceact, remotes' | split: ', '  %}
+{% assign cat_array = 'general, application, hub, troubleshoot, chatbots, lighting, audio, curtain-controllers, dual-load-switches, in-wall-dimmers, outlets, switches, color-controllers, cameras, motion-sensors, multi-sensors, open-close-sensors, range-extender, shock-sensors, sirens, door-locks, smoke-co-detectors, water-sensor, universal-sensors, thermostats, energy-management, insteon-devices, trackers, voiceact, remotes' | split: ', '  %}
 
 {% include search-results.html %}
 
