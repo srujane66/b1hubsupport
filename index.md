@@ -3,6 +3,11 @@ layout: default
 search_omit: true
 ---
 
+{% comment %}
+  Make sure to keep the order of the category names in the
+  array below as you would like it to appear on the home page.
+{% endcomment %}
+
 {% assign cat_array = 'general, application, hub, troubleshoot, chatbots, lighting, audio, curtain-controllers, dual-load-switches, in-wall-dimmers, outlets, switches, color-controllers, cameras, motion-sensors, multi-sensors, open-close-sensors, range-extender, shock-sensors, sirens, door-locks, smoke-co-detectors, water-sensor, universal-sensors, thermostats, energy-management, insteon-devices, trackers, voiceact, remotes' | split: ', '  %}
 
 {% include search-results.html %}
