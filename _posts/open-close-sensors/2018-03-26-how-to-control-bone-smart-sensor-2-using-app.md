@@ -1,7 +1,7 @@
 ---
 layout: post
-postid: '00900'
-catid: '01600'
+postid: '00954'
+catid: '01654'
 categories: open-close-sensors
 title: How to control B.One Smart Sensor 2 using App?
 ---
