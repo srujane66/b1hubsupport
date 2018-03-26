@@ -1,7 +1,7 @@
 ---
 layout: post
 postid: '01051'
-catid: '01653'
+catid: '01600'
 categories: open-close-sensors
 title: How to delete B.One Smart Sensor 2 from the Hub?
 ---
