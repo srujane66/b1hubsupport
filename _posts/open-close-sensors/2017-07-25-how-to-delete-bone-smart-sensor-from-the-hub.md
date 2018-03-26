@@ -12,7 +12,7 @@ title: How to delete B.One Smart Sensor from the Hub?
 
 2. In order to delete a device, long press on the device. Enter the password and tap on **Delete**.
 
-3. Now turn the sensor upside down, wait for 30 seconds and tap on **Delete Device**.
+3. Tap on **Delete Device**.
 
 4. Click the white button on the rear of the sensor. A pop-up appears on the screen stating that the device has been successfully deleted.
 
