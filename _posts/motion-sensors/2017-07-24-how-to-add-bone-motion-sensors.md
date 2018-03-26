@@ -12,7 +12,7 @@ title: How to add B.One Motion Sensors?
 
 3. Tap on **Motion Sensors**. Select **B.One Motion Sensor**.
 
-2. Tap on **Next**. Then click the white button on the rear of the sensor.
+2. Turn the sensor upside down, wait for 30 seconds and tap on **Next**. Then click the white button on the rear of the sensor.
 
 3. Enter the device information and tap **Done**.
 
