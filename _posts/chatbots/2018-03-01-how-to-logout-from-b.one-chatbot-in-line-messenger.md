@@ -6,6 +6,6 @@ categories: chatbots
 title: How to logout from B.One ChatBot in Line messenger?
 ---
 
-To logout from B.One ChatBot, just type 'Bye'. You will be successfully logged out from B.One Bot.
+To logout from B.One ChatBot, just type 'Bye'. You will be successfully logged out.
 
   ![]({{ site.img }}/00450/image16.png)
